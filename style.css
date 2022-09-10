@@ -1,0 +1,30 @@
+.blueBtn{
+    text-align: center;
+    font-size: 25px;
+    width: 500px;
+    border: 1px solid red;
+    padding: 130px 170px 70px 50px;
+    margin: 0px 100px 0px 100px;
+    background-color: rgb(68, 185, 224);
+    color: yellow;
+}
+.redBtn{
+    text-align: center;
+    font-size: 60px;
+    width: 500px;
+    border: 1px solid blue;
+    padding: 100px 100px 50px 120px;
+    margin: 0px 100px 0px 100px;
+    background-color: red;
+    color: rgb(93, 92, 92)
+}
+.greenBtn{
+    text-align: center;
+    font-size: 30px;
+    width: 500px;
+    border: 1px solid white;
+    padding: 100px 150px 100px 70px;
+    margin: 0px 100px 0px 100px;
+    background-color: rgb(38, 184, 38);
+    color: pink
+}
